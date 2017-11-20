@@ -1,0 +1,112 @@
+{
+    "CharacterSheet1":{
+        "Character-Name":"",
+        "Class&Level":"",
+        "Background":"",
+        "PlayerName":"",
+        "Alignment":"",
+        "ExperiencePoints":0,
+        "Faction":"",
+        "DCINumber":0,
+        "Inspiration":0,
+        "ProficiencyBonus":0,
+        "Attributes":{
+            "Strength":0,
+            "Dexterity":0,
+            "Constitution":0,
+            "Intelligence":0,
+            "Wisdom":0,
+            "Charisma":0
+        },
+        "SavingThrows":{
+            "Strength":0,
+            "Dexterity":0,
+            "Constitution":0,
+            "Intelligence":0,
+            "Wisdom":0,
+            "Charisma":0
+        },
+        "ArmorClass":0,
+        "Initiative":0,
+        "Seed":0,
+        "HitPoints":{
+            "Maximum":0,
+            "Current":0,
+            "Temporary":0
+        },
+        "HitDice":{
+            "Total":0,
+            "Current":0
+        },
+        "DeathSaves":{
+            "Success":3,
+            "Failure":3
+        },
+        "PersonalityTraits":{
+            "Trait1":"",
+            "Trait2":"",
+            "Trait3":""
+        },
+        "Ideals":{
+            "Ideal1":"",
+            "Ideal2":"",
+            "Ideal3":""
+        },
+        "Bonds":{
+            "Bond1":"",
+            "Bond2":"",
+            "Bond3":""
+        },
+        "Flaws":{
+            "Flaw1":"",
+            "Flaw2":"",
+            "Flaw3":""
+        },
+        "PassiveWisdom(Perception)":0,
+        "OtherProficiencies&Languages":{
+            "Proficiencies":"",
+            "Language":""
+        },
+        "Attacks&Spellcasting":{
+            "Attack 1":{
+                "Name":"",
+                "Attack Bonus":0,
+                "Damage Type":""
+            },
+            "Attack 2":{
+                "Name":"",
+                "Attack Bonus":0,
+                "Damage Type":""
+            },
+            "Attack 3":{
+                "Name":"",
+                "Attack Bonus":0,
+                "Damage Type":""
+            }
+        },
+        "Equipment":{
+            "CP":0,
+            "SP":0,
+            "EP":0,
+            "GP":0,
+            "PP":0,
+            "Equipments":{
+                "Equipment1":"",
+                "Equipment2":"",
+                "Equipment3":"",
+                "Equipment4":"",
+                "Equipment5":""
+            }
+        },
+        "Features and Traits":{
+            "Features":{
+                "Feature1":""
+            },
+            "Traits":{
+                "Trait1":""
+            }
+
+        }
+
+    }
+}

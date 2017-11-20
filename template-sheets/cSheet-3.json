@@ -1,0 +1,92 @@
+{
+    "CharacterSheet3":{
+        "SpellcastingClass":"",
+        "Spellcasting Ability":"",
+        "Spell Save DC":"",
+        "Spell Attack Bonus":0,
+        "Cantrips":{
+            "Cantrip 1":""
+        },
+        "Level 1":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 2":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 3":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 4":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 5":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 6":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 7":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 8":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        },
+        "Level 9":{
+            "Slots Total":0,
+            "Slots Extended":0,
+            "Spell Name":{
+                "Spell Name 1":"",
+                "Spell Name 2":"",
+                "Spell Name 3":""
+            }
+        }
+    }
+}
