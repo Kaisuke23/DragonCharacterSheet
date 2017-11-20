@@ -1,0 +1,208 @@
+{
+    "CharacterSheet1":{
+        "Character-Name":"Arithyra Norixius",
+        "Class&Level":"Paladin 1",
+        "Background":"Acolyte",
+        "Race":"Dragon Born",
+        "PlayerName":"",
+        "Alignment":"Lawful Good",
+        "ExperiencePoints":0,
+        "Faction":"",
+        "DCINumber":0,
+        "Inspiration":0,
+        "ProficiencyBonus":2,
+        "Attributes":{
+            "Strength":{
+                "Initial":13,
+                "Modifier":1
+            },
+            "Dexterity":{
+                "Initial":9,
+                "Modifier":-1
+            },
+            "Constitution":{
+                "Initial":5,
+                "Modifier":-3
+            },
+            "Intelligence":{
+                "Initial":5,
+                "Modifier":-3
+            },
+            "Wisdom":{
+                "Initial":12,
+                "Modifier":1
+            },
+            "Charisma":{
+                "Initial":10,
+                "Modifier":0
+            }
+        },
+        "Skills":{
+            "Acrobatics":{
+                "isProficient":false,
+                "Modifier":-1
+            },
+            "Animal Hanlding":{
+                "isProficient":false,
+                "Modifier":1
+            },
+            "Arcana":{
+                "isProficient":false,
+                "Modifier":-3
+            },
+            "Athletics":{
+                "isProficient":false,
+                "Modifier":1
+            },
+            "Deception":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "History":{
+                "isProficient":false,
+                "Modifier":-3
+            },
+            "Insight":{
+                "isProficient":false,
+                "Modifier":1
+            },
+            "Intimidation":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Investigation":{
+                "isProficient":false,
+                "Modifier":-3
+            },
+            "Medicine":{
+                "isProficient":true,
+                "Modifier":3
+            },
+            "Nature":{
+                "isProficient":false,
+                "Modifier":-3
+            },
+            "Perception":{
+                "isProficient":false,
+                "Modifier":1
+            },
+            "Performance":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Persuation":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Religion":{
+                "isProficient":true,
+                "Modifier":-1
+            },
+            "Sleight of Hand":{
+                "isProficient":false,
+                "Modifier":-1
+            },
+            "Stealth":{
+                "isProficient":false,
+                "Modifier":-1
+            },
+            "Survival":{
+                "isProficient":false,
+                "Modifier":1
+            }
+        },
+        "SavingThrows":{
+            "Strength":{
+                "isProficient":false,
+                "Modifier":1
+            },
+            "Dexterity":{
+                "isProficient":false,
+                "Modifier":-1
+            },
+            "Constitution":{
+                "isProficient":false,
+                "Modifier":-3
+            },
+            "Intelligence":{
+                "isProficient":false,
+                "Modifier":-3
+            },
+            "Wisdom":{
+                "isProficient":true,
+                "Modifier":3
+            },
+            "Charisma":{
+                "isProficient":true,
+                "Modifier":2
+            }
+        },
+        "ArmorClass":13,
+        "Initiative":-1,
+        "Seed":30,
+        "HitPoints":{
+            "Maximum":7,
+            "Current":0,
+            "Temporary":0
+        },
+        "HitDice":{
+            "Total":"1d10",
+            "Current":0
+        },
+        "DeathSaves":{
+            "Success":3,
+            "Failure":3
+        },
+        "PersonalityTraits":"",
+        "Ideals":"",
+        "Bonds":"",
+        "Flaws":"",
+        "PassiveWisdom(Perception)":0,
+        "OtherProficiencies&Languages":{
+            "Proficiencies":"",
+            "Language":"Common, Dragonic"
+        },
+        "Attacks&Spellcasting":{
+            "Attack 1":{
+                "Name":"Pike",
+                "Attack Bonus":3,
+                "Damage Type":"1d10 p"
+            },
+            "Attack 2":{
+                "Name":"Battle Axe",
+                "Attack Bonus":3,
+                "Damage Type":"1d8 s"
+            },
+            "Attack 3":{
+                "Name":"",
+                "Attack Bonus":0,
+                "Damage Type":""
+            }
+        },
+        "Equipment":{
+            "CP":0,
+            "SP":0,
+            "EP":0,
+            "GP":0,
+            "PP":0,
+            "Equipments":{
+                "Equipment1":"Scale Mail",
+                "Equipment2":"Pike",
+                "Equipment3":"Battle Axe",
+                "Equipment4":"Priest Pack(look in player handbook)",
+                "Equipment5":"",
+                "Gold":"36gp"
+            }
+        },
+        "Features and Traits":{
+            "Features":{
+                "Feature1":""
+            },
+            "Traits":{
+                "Trait1":""
+            }
+
+        }
+
+    }
+}

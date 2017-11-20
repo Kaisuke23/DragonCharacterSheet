@@ -1,0 +1,212 @@
+{
+    "CharacterSheet1":{
+        "Character-Name":"Lucian Galanodel",
+        "Class&Level":"Bard 1",
+        "Background":"Noble",
+        "Race":"High Moon Elf",
+        "PlayerName":"",
+        "Alignment":"Chaotic Neutral",
+        "ExperiencePoints":0,
+        "Faction":"",
+        "DCINumber":0,
+        "Inspiration":0,
+        "ProficiencyBonus":2,
+        "Attributes":{
+            "Strength":{
+                "Initial":9,
+                "Modifier":-1
+            },
+            "Dexterity":{
+                "Initial":17,
+                "Modifier":3
+            },
+            "Constitution":{
+                "Initial":15,
+                "Modifier":2
+            },
+            "Intelligence":{
+                "Initial":14,
+                "Modifier":2
+            },
+            "Wisdom":{
+                "Initial":14,
+                "Modifier":2
+            },
+            "Charisma":{
+                "Initial":16,
+                "Modifier":3
+            }
+        },
+        "Skills":{
+            "Acrobatics":{
+                "isProficient":false,
+                "Modifier":3
+            },
+            "Animal Hanlding":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Arcana":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Athletics":{
+                "isProficient":false,
+                "Modifier":-1
+            },
+            "Deception":{
+                "isProficient":false,
+                "Modifier":3
+            },
+            "History":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Insight":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Intimidation":{
+                "isProficient":false,
+                "Modifier":3
+            },
+            "Investigation":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Medicine":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Nature":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Perception":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Performance":{
+                "isProficient":true,
+                "Modifier":5
+            },
+            "Persuation":{
+                "isProficient":true,
+                "Modifier":5
+            },
+            "Religion":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Sleight of Hand":{
+                "isProficient":true,
+                "Modifier":5
+            },
+            "Stealth":{
+                "isProficient":false,
+                "Modifier":3
+            },
+            "Survival":{
+                "isProficient":false,
+                "Modifier":2
+            }
+        },
+        "SavingThrows":{
+            "Strength":{
+                "isProficient":false,
+                "Modifier":-1
+            },
+            "Dexterity":{
+                "isProficient":true,
+                "Modifier":5
+            },
+            "Constitution":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Intelligence":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Wisdom":{
+                "isProficient":false,
+                "Modifier":2
+            },
+            "Charisma":{
+                "isProficient":true,
+                "Modifier":5
+            }
+        },
+        "ArmorClass":14,
+        "Initiative":3,
+        "Seed":30,
+        "HitPoints":{
+            "Maximum":10,
+            "Current":,
+            "Temporary":0
+        },
+        "HitDice":{
+            "Total":"id8",
+            "Current":0
+        },
+        "DeathSaves":{
+            "Success":3,
+            "Failure":3
+        },
+        "PersonalityTraits":"",
+        "Ideals":"",
+        "Bonds":"",
+        "Flaws":"",
+        "PassiveWisdom(Perception)":0,
+        "OtherProficiencies&Languages":{
+            "Proficiencies":"",
+            "Language":"Common, Elvish"
+        },
+        "Attacks&Spellcasting":{
+            "Attack 1":{
+                "Name":"Long Bow",
+                "Attack Bonus":1,
+                "Damage Type":"1d8 p"
+            },
+            "Attack 2":{
+                "Name":"",
+                "Attack Bonus":0,
+                "Damage Type":""
+            },
+            "Attack 3":{
+                "Name":"",
+                "Attack Bonus":0,
+                "Damage Type":""
+            }
+        },
+        "Equipment":{
+            "CP":0,
+            "SP":0,
+            "EP":0,
+            "GP":0,
+            "PP":0,
+            "Equipments":{
+                "Equipment1":"Leather Aromor",
+                "Equipment2":"Long Bow",
+                "Equipment3":"Arrows x160",
+                "Equipment4":"Quiver",
+                "Equipment5":"Lute",
+                "Equipment6":"Pan Flute",
+                "Equipment7":"Flute",
+                "Equipment8":"Backpack",
+                "Gold":"50 gp"
+
+            }
+        },
+        "Features and Traits":{
+            "Features":{
+                "Feature1":""
+            },
+            "Traits":{
+                "Trait1":""
+            }
+
+        }
+
+    }
+}

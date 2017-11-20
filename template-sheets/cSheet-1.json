@@ -18,6 +18,26 @@
             "Wisdom":0,
             "Charisma":0
         },
+        "Skills":{
+            "Acrobatics":"",
+            "Animal Hanlding":"",
+            "Arcana":"",
+            "Athletics":"",
+            "Deception":"",
+            "History":"",
+            "Insight":"",
+            "Intimidation":"",
+            "Investigation":"",
+            "Medicine":"",
+            "Nature":"",
+            "Perception":"",
+            "Performance":"",
+            "Persuation":"",
+            "Religion":"",
+            "Sleight of Hand":"",
+            "Stealth":"",
+            "Survival":""
+        },
         "SavingThrows":{
             "Strength":0,
             "Dexterity":0,
