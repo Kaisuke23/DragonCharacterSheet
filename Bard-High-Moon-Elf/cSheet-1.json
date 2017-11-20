@@ -142,7 +142,7 @@
         "Seed":30,
         "HitPoints":{
             "Maximum":10,
-            "Current":,
+            "Current":0,
             "Temporary":0
         },
         "HitDice":{

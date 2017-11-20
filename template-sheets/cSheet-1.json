@@ -11,32 +11,104 @@
         "Inspiration":0,
         "ProficiencyBonus":0,
         "Attributes":{
-            "Strength":0,
-            "Dexterity":0,
-            "Constitution":0,
-            "Intelligence":0,
-            "Wisdom":0,
-            "Charisma":0
+            "Strength":{
+                "Initial":0,
+                "Modifier":0
+            },
+            "Dexterity":{
+                "Initial":0,
+                "Modifier":0
+            },
+            "Constitution":{
+                "Initial":0,
+                "Modifier":0
+            },
+            "Intelligence":{
+                "Initial":0,
+                "Modifier":0
+            },
+            "Wisdom":{
+                "Initial":0,
+                "Modifier":0
+            },
+            "Charisma":{
+                "Initial":0,
+                "Modifier":0
+            }
         },
         "Skills":{
-            "Acrobatics":"",
-            "Animal Hanlding":"",
-            "Arcana":"",
-            "Athletics":"",
-            "Deception":"",
-            "History":"",
-            "Insight":"",
-            "Intimidation":"",
-            "Investigation":"",
-            "Medicine":"",
-            "Nature":"",
-            "Perception":"",
-            "Performance":"",
-            "Persuation":"",
-            "Religion":"",
-            "Sleight of Hand":"",
-            "Stealth":"",
-            "Survival":""
+            "Acrobatics":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Animal Hanlding":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Arcana":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Athletics":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Deception":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "History":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Insight":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Intimidation":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Investigation":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Medicine":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Nature":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Perception":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Performance":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Persuation":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Religion":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Sleight of Hand":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Stealth":{
+                "isProficient":false,
+                "Modifier":0
+            },
+            "Survival":{
+                "isProficient":false,
+                "Modifier":0
+            }
         },
         "SavingThrows":{
             "Strength":0,
@@ -62,26 +134,10 @@
             "Success":3,
             "Failure":3
         },
-        "PersonalityTraits":{
-            "Trait1":"",
-            "Trait2":"",
-            "Trait3":""
-        },
-        "Ideals":{
-            "Ideal1":"",
-            "Ideal2":"",
-            "Ideal3":""
-        },
-        "Bonds":{
-            "Bond1":"",
-            "Bond2":"",
-            "Bond3":""
-        },
-        "Flaws":{
-            "Flaw1":"",
-            "Flaw2":"",
-            "Flaw3":""
-        },
+        "PersonalityTraits":"",
+        "Ideals":"",
+        "Bonds":"",
+        "Flaws":"",
         "PassiveWisdom(Perception)":0,
         "OtherProficiencies&Languages":{
             "Proficiencies":"",
@@ -115,7 +171,8 @@
                 "Equipment2":"",
                 "Equipment3":"",
                 "Equipment4":"",
-                "Equipment5":""
+                "Equipment5":"",
+                "Gold":0
             }
         },
         "Features and Traits":{
